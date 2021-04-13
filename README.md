@@ -8,7 +8,7 @@ Equipment
 Introduction
 -------------------------
 With this script you can ping all the IP addresses that you store in your MYSQL with PHP. 
-This script is only valid for Windows all versions.
+This script is only valid for all French versions of Windows.
 
 
 Details
